@@ -5,7 +5,7 @@
   <li> I will be creating projects and hosting them on this platform and replit!</li>
   <li> If you'd like to collaborate, I currently create Java and C++ programs(around intermediate level)</li>
   <li> I am currently interested in part-time employment in any IT related field, software development preferred!</li>
-  <li> You can reach me at jwallace918@outlook.com, linkedin.com/jwall911, replit.com/@jwall911</li>
+  <li> You can reach me at: linkedin.com/jwall911 and see other projects at: replit.com/@jwall911</li>
   <h2> Thanks for visiting! </h2>
   </ul>
 <!---
