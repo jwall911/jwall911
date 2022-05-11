@@ -5,7 +5,7 @@
 <li> I’m currently studying Computer Science at Northeastern State University in Oklahoma (junior yr)</li>
   
   <li> I will be creating projects and hosting them on this platform and replit!</li>
-  
+  <br /> <br />
   <li> If you'd like to collaborate, I currently create Java and C++ programs(around intermediate level)</li>
   
   <li> I am currently interested in part-time employment in any IT related field, software development preferred!</li>
