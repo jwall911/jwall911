@@ -1,6 +1,6 @@
 <h1> 👋 Hi, I’m @jwall911</h1>
 <ul>
-  <li> I’m interested in programming, reading, fitness (yoga, weightlifting, running), MMA, travelling and spending time with loved ones!</li>
+  <li> I’m interested in programming, reading, fitness, MMA, travelling and spending time with loved ones!</li>
   
 <li> I’m currently studying Computer Science at Northeastern State University in Oklahoma (junior yr)</li>
   
