@@ -9,7 +9,7 @@
   <li> If you'd like to collaborate, I currently create Java and C++ programs(around intermediate level)</li>
   
   <li> I am currently interested in part-time employment in any IT related field, software development preferred!</li>
-  
+  <h3>Also...</h3>
   <li> You can reach me at: linkedin.com/jwall911 and see other projects at: replit.com/@jwall911</li>
   <h2> Thanks for visiting! </h2>
   </ul>
