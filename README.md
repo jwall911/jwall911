@@ -8,7 +8,7 @@
   <li> I am currently interested in part-time employment in any IT related field, software development preferred!</li>
   <li> You can reach me at: linkedin.com/jwall911 and see other projects at: replit.com/@jwall911</li>
   </br>
- <p> I'd label myself as a beginner, but I am practicing every day to become better. Soon I'd like to see myself being a Software Engineer, then possibly a Project Manager. Once I've fulfilled my programming desires, I look forward to teaching and mentoring others. </p>
+ <p> I'd label myself as a beginner to intermediate, but I am practicing every day to become better. Soon I'd like to see myself being a Software Engineer, then possibly a Project Manager. Once I've fulfilled my programming desires, I look forward to teaching and mentoring others. </p>
   <h2> Thanks for visiting! </h2>
   </ul>
 <!---
