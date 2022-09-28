@@ -6,7 +6,7 @@
   <br /><h3>Also...</h3><br />
   <li> If you'd like to collaborate, I currently create Java and C++ programs (around beginner-intermediate level)</li>
   <li> I am currently interested in part-time employment in any IT related field, software development preferred!</li>
-  <li> You can reach me at: linkedin.com/jwall911 and see other projects at: replit.com/@jwall911</li>
+  <li> You can reach me at: https://linkedin.com/in/jwall911 and see other projects at: https://replit.com/@jwall911 see my leetcode at: https://leetcode.com/jwall911</li>
   </br>
  <p> I'd label myself as a beginner to intermediate, but I am practicing every day to become better. Soon I'd like to see myself being a Software Engineer, then possibly a Project Manager. Once I've fulfilled my programming desires, I look forward to teaching and mentoring others. </p>
   <h2> Thanks for visiting! </h2>
