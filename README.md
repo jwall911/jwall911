@@ -8,7 +8,9 @@
   <li> I am currently interested in part-time employment in any IT related field, software development preferred!</li>
   <li> You can reach me at: https://linkedin.com/in/jwall911 and see other projects at: https://replit.com/@jwall911 see my leetcode at: https://leetcode.com/jwall911</li>
   </br>
- <p> I'd label myself as a beginner to intermediate, but I am practicing every day to become better. Soon I'd like to see myself being a Software Engineer, then possibly a Project Manager. Once I've fulfilled my programming desires, I look forward to teaching and mentoring others. </p>
+ <p> I'd label myself as a beginner to intermediate, but I am practicing every day to become better. Soon I'd like to see myself being a Software Engineer, then possibly a Project Manager. Once I've fulfilled my programming desires, I look forward to teaching and mentoring others. 
+ 
+ The programs listed on github are not the only ones I have created.</p>
   <h2> Thanks for visiting! </h2>
   </ul>
 <!---
