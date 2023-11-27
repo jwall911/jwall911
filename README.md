@@ -3,6 +3,7 @@
   <li> I’m interested in programming, reading, fitness, MMA, travelling and spending time with loved ones!</li> 
   <li> I’m currently a senior in Computer Science (Graduate Decemeber 2023)</li>
   <br /><h3>Also...</h3><br />
+    <li>I love DATA!</li>
   </br>
   <h2> Thanks for visiting! </h2>
   </ul>
